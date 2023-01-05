@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# ReactJS Context_API Project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A ReactJS Project to learn and understand the steps involved in utilizing React's Context API which helps share data between components in the component tree without having to pass props down manually through parent to child components.
+
+## Code Walkthrough & Commits( to make the code easy to understand)
+
+We can go through below commits to understand the three important parts/concepts of React's Context API:
+
+1. Step - Create context for your App and export it [Click to see the Code changes](https://github.com/SidP919/ReactJS-Practice-Project-03-Context_API/commit/2f3340672d62fdaebb59ac4605e1f9adf8d9190f)
+
+1. Step - Create provider to access Mission info from anywhere in your React App [Click to see the Code changes](https://github.com/SidP919/ReactJS-Practice-Project-03-Context_API/commit/7f83f6d4637df1fa2deb6bf11fbc7e0c910ef815)
+
+1. Step - Access Mission data using Consumer in App.js [Click to see the Code changes](https://github.com/SidP919/ReactJS-Practice-Project-03-Context_API/commit/a3bc3dabc0d070bcce6ae059afc0f93a8488c7d3)
 
 ## Available Scripts
 
